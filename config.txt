@@ -1,0 +1,9 @@
+sftp_host=127.0.0.1
+sftp_port=22
+sftp_user=WhatIsLove
+sftp_password=12345
+sftp_remote_dir=D:/Test/Remote
+local_dir=D:/Test/Local
+sql_user=root
+sql_password=12345
+sql_database=testdb
